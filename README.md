@@ -28,3 +28,4 @@ npm start
 # Running tests
 
 Both the client and server use jest for tests. These can be run by within each directory by running `npm test`
+
